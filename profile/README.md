@@ -1,3 +1,4 @@
+<img width="1535" height="739" alt="image" src="https://github.com/user-attachments/assets/25f37508-e9b1-441f-8369-e2db5fa0c583" />
 # Unshadow
 
 ### Memory that walks with you.
@@ -9,6 +10,7 @@ We’re working toward AI that doesn't reset every time a conversation ends.
 🌐 **[unshadow.dev](https://unshadow.dev)**
 
 ---
+
 
 ## What we're building
 
